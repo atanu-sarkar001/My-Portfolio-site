@@ -1,0 +1,43 @@
+/* banner */
+@media (max-width:425px) {
+    .top-right-img img{
+        margin-left: 74px;
+    }
+    .banner-content{
+        text-align: center;
+        align-items: center;
+    }
+}
+/* ABOUT */
+@media (max-width:425px){
+    .about .image img{
+       max-width: 270px;
+    }
+    .about .text{
+        text-align: center;
+    }
+    .about .image{
+        margin-left: 74px;
+    }
+}
+/* calints*/
+@media (max-width:425px){
+    .Clints .single{
+       text-align: center;
+    }
+}
+/* banner */
+@media (max-width:425px){
+    .banner-wapper h1{
+        font-size: 43px;
+    }
+    .banner-wapper h2{
+        font-size: 38px;
+        margin-top: 20px;
+    }
+    }
+
+
+
+
+/* ************************ CSS for CV************************* */
